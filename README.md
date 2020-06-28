@@ -1,0 +1,2 @@
+# Conflict-Resolver
+Winning chance
